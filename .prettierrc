@@ -7,5 +7,5 @@
   "parser": "typescript",
   "semi": true,
   "trailingComma": "all",
-  "endOfLine": "crlf"
+  "endOfLine": "lf"
 }
