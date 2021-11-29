@@ -2,6 +2,8 @@
 
 This is a very simple react, typescript, & vite boilerplate with (almost) zero configuration.
 
+Demo: https://react-ts-kit.godfreyzubiaga.com/
+
 ## Quick Setup
 
 1. Run `npx create-react-ts-kit appName`
