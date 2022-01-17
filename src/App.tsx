@@ -4,7 +4,7 @@ import React from 'react';
 
 const App = () => (
   <div className="container">
-    <h1 id="title">This is a ReactJS with Parcel Boilerplate</h1>
+    <h1 id="title">This is a ReactJS with Vite Boilerplate</h1>
     <h2 id="subtext">
       Starting a React project made easier with zero-configuration boilerplate.
     </h2>
