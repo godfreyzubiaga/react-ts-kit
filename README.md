@@ -1,4 +1,4 @@
-# ReactJS x Typescript x Vite Boilerplate
+# ReactJS x Typescript x Vite Boilerplate x PWA
 
 This is a very simple react, typescript, & vite boilerplate with (almost) zero configuration.
 
