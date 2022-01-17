@@ -3,9 +3,18 @@
 
 <head>
   <meta charset="UTF-8" />
-  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/x-icon" href="/images/pwa/favicon.svg">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>React TS Kit</title>
+  <!-- PWA: Apple Touch Icon, and Service Worker registration. -->
+  <!-- Vite Plugin PWA will add the Web App Manifest during build -->
+  <link rel="apple-touch-icon" href="/images/pwa/icon-192x192.png">
+  <meta name="theme-color" content="#ffffff">
+  <script type="module">
+    // Register Service Worker using Vite Plugin PWA
+    import { registerSW } from 'virtual:pwa-register';
+    registerSW();
+  </script>
 </head>
 
 <body>
