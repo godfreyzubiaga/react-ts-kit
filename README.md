@@ -2,7 +2,7 @@
 
 This is a very simple PWA, react, typescript, & vite boilerplate with (almost) zero configuration.
 
-Demo: https://react-kit.gmzubiaga.com/
+Demo: https://react-kit-pwa.godfreyzubiaga.com/
 
 ## Quick Setup
 
@@ -18,6 +18,9 @@ Demo: https://react-kit.gmzubiaga.com/
 - ESLint
 - Vite
 - PWA setup
+
+## Chrome/Edge Lighthouse PWA Test Result
+<img src="https://res.cloudinary.com/freymwork/image/upload/v1642490803/Lighthouse_PWA_d6o5yj.png" alt="LightHouse PWA Test"/>
 
 ## LICENSE
 
