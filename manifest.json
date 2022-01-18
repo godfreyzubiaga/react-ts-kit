@@ -1,6 +1,6 @@
 {
-  "name": "React TS Kit",
-  "short_name": "React TS Kit",
+  "name": "React TS Kit PWA",
+  "short_name": "React TS Kit PWA",
   "description": "A Vite starter app ready-to-go as a Progressive Web App w/ React.",
   "background_color": "#ffffff",
   "theme_color": "#333333",
