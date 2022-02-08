@@ -2,6 +2,8 @@
 
 This is a very simple react, typescript, & vite boilerplate with (almost) zero configuration.
 
+[PWA Version](https://github.com/godfreyzubiaga/react-ts-kit/tree/pwa)
+
 Demo: https://react-kit.gmzubiaga.com/
 
 ## Quick Setup
@@ -20,4 +22,4 @@ Demo: https://react-kit.gmzubiaga.com/
 
 ## LICENSE
 
-MIT license, Copyright (c) 2021 Godfrey Zubiaga
+MIT license, Copyright (c) 2022 Godfrey Zubiaga
