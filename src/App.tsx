@@ -4,13 +4,13 @@ import React from 'react';
 
 const App = () => (
   <div className="container">
-    <h1 id="title">This is a ReactJS x Vite x PWA Boilerplate</h1>
+    <h1 id="title">This is a ReactTS x Vite x PWA Boilerplate</h1>
     <h2 id="subtext">
       Starting a React PWA project made easier with zero-configuration boilerplate.
     </h2>
     <span id="line" />
     <div id="instruction">
-      <p>Edit src/App.jsx to start</p>
+      <p>Edit src/App.tsx to start</p>
       <p>Edit src/App.css to change styles</p>
       <p>Edit manifest.json to change pwa data</p>
     </div>
