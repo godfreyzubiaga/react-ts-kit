@@ -18,7 +18,7 @@ const App = () => (
           target="_blank"
           rel="noreferrer"
         >
-          <code>npm install create-react-ts-kit</code>
+          <code>npx create-react-ts-kit appName</code>
         </a>
       </p>
       <div className="line" />
