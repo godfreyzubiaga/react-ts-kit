@@ -4,7 +4,7 @@ This is a very simple react, typescript, & vite boilerplate with (almost) zero c
 
 [PWA Version](https://github.com/godfreyzubiaga/react-ts-kit/tree/pwa)
 
-Demo: https://react-kit.gmzubiaga.com/
+[Demo](https://react-ts-kit.vercel.app/)
 
 ## Quick Setup
 
